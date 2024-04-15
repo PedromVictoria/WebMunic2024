@@ -70,3 +70,7 @@ E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente\WebP
 E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoP.D8E8C0A7.Up2Date
 E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoPatente.dll
 E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoPatente.pdb
+E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente_GH1\WebMunic2024\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoPatente.csproj.AssemblyReference.cache
+E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente_GH1\WebMunic2024\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoPatente.csproj.CoreCompileInputs.cache
+E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente_GH1\WebMunic2024\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoPatente.dll
+E:\SistemaVersiones\2024\Abril2024\SistemaMunicipioAtuntaqui\WebPagoPatente_GH1\WebMunic2024\WebPagoPatente\WebPagoPatente\obj\Debug\WebPagoPatente.pdb
